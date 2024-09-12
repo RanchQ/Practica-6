@@ -11,3 +11,9 @@ Edgar Edán Arriaga Quiroz
 ## Roberto Melo Ortiz D Ora
 
 ### Revisamos la teoría fundamental sobre el diseño gráfico y sus elementos sobre imágenes, realizamos prácticas de edición y montaje en plataformas como Photoshop e Illustrator.
+
+# Programación en Lenguajes Interpretados
+
+## Jonathan Ulises Miranda Charles
+
+### Tomamos teoría y realizamos prácticas para aprender a utilizar herramientas de programación, marcado de texto, linea de comandos y software para versionado de repositorios en linea, para la elaboración de proyectos web
