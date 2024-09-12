@@ -23,3 +23,9 @@ Edgar Edán Arriaga Quiroz
 ## Sebastian Mejia Hernandez 
 
 ### Realizar un proyecto durante el semestre, desarrollando bien una app o un proyecto web, utilizando distintas herramientas. Actualmente revisamos el desarrollo de documentación en LaTeX, así como la toma de requerimentos para el desarrollo de una aplicación. 
+
+# Sistemas Operativos y Redes
+
+## Alcides Albora García
+
+### Revisar las características y funciones de los sistemas operativos, sus tipos y ejemplos de estos, así como conocer los medios por los que una computadora puede tener acceso a la red, como funciona esto y los sistemas que tiene implementados una computadora para proteger, permitir y bloquear dicho acceso.
