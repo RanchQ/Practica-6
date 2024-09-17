@@ -1,0 +1,35 @@
+commit 0a96cbbc4b56310fbfbdb8cd5475e48907154c74
+Author: Ranch <cdmx2844@amerike.edu.mx>
+Date:   Wed Sep 11 19:04:42 2024 -0600
+
+    Agregando rama e info de Sistemas Operativos y Redes
+
+commit 70eecde1101777d88aa84c114a45c6fc18e17c38
+Author: Ranch <cdmx2844@amerike.edu.mx>
+Date:   Wed Sep 11 18:56:16 2024 -0600
+
+    Agregando rama e info de Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
+
+commit 774d42ef715be1f0d572a7d8fb5101b3f224c444
+Author: Ranch <cdmx2844@amerike.edu.mx>
+Date:   Wed Sep 11 18:43:37 2024 -0600
+
+    Agregando rama e info de Programación en Lenguajes Interpretados
+
+commit 81107685167f9d16152ac35facee3e91eb4c7713
+Author: Ranch <cdmx2844@amerike.edu.mx>
+Date:   Wed Sep 11 18:27:32 2024 -0600
+
+    Agregando rama e info de Principios de Composición y Diseño
+
+commit 85689015e9b6d46a8231bd414e17f561d075104d
+Author: Ranch <cdmx2844@amerike.edu.mx>
+Date:   Wed Sep 11 18:09:36 2024 -0600
+
+    Agregando rama e info de Diseño de Videojuegos
+
+commit 01692e981aec2b088613883fdaecd29572aca802
+Author: Ranch <cdmx2844@amerike.edu.mx>
+Date:   Wed Sep 11 17:55:20 2024 -0600
+
+    Primer commit
