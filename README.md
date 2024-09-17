@@ -30,4 +30,6 @@ Edgar Edán Arriaga Quiroz
 
 ### Revisar las características y funciones de los sistemas operativos, sus tipos y ejemplos de estos, así como conocer los medios por los que una computadora puede tener acceso a la red, como funciona esto y los sistemas que tiene implementados una computadora para proteger, permitir y bloquear dicho acceso.
 
-Creando la versión 1.0.0 de este repositorio
+Creando la versión 1.0.0 de este repositorio.
+
+Creando la versión 1.1.0 de este repositorio.
